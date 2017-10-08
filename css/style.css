@@ -1,0 +1,34 @@
+body {
+
+}
+
+.container-fluid {
+    color: white;
+    background-color: black;
+    max-width: 1280px;
+    min-height: 720px;
+    margin: 10px auto;
+}
+
+.display-3 {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1mm;
+
+}
+
+.magenta {
+    color: #e6007e;
+    font-weight: 700;
+}
+
+.menu {
+    margin-top: 20px;
+}
+
+.navi {
+    margin-left: 20px;
+}
+
+.slider {
+    margin-bottom: 20px;
+}
